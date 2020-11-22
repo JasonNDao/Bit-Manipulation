@@ -1,2 +1,2 @@
 # Bit-Manipulation
-Assortment of programs that involve bitwise operation (Computer Architecture Fall 2020)
+Assortment of programs that involve bitwise operations (Computer Architecture Fall 2020)
